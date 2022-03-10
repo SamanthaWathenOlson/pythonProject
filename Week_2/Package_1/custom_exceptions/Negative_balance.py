@@ -1,0 +1,2 @@
+class NegativeBalance(Exception):
+    pass
